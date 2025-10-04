@@ -17,10 +17,6 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5.svg?logo=spacy&logoColor=white"></a>
   &emsp; <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   &emsp; <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"/></a>
   &emsp; <a href="https://laravel.com"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
@@ -35,7 +31,6 @@
   &emsp; <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
   &emsp; <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=black"></a>
   &emsp; <a href="#"><img alt="Orange" src="https://img.shields.io/badge/Orange-FF7F0E.svg?logo=python&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
 </p>
 
 ### 👉 Development & Tools
