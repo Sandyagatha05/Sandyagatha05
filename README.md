@@ -31,7 +31,9 @@
   &emsp; <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
   &emsp; <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&logoColor=black"></a>
   &emsp; <a href="#"><img alt="Orange" src="https://img.shields.io/badge/Orange-FF7F0E.svg?logo=python&logoColor=white"></a>
+  &emsp; <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=rstudio&logoColor=white"></a>
 </p>
+
 
 ### 👉 Development & Tools
 <p align="left">
