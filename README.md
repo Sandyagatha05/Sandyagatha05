@@ -87,6 +87,7 @@
 	<a href="mailto:sandyagathalim@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Sandyagatha05"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sandy-agatha-indra-lim/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="wa.me/6287889367899"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwhatsapp_3670051&psig=AOvVaw02UnqaB_dx6casN5bMz_VC&ust=1760171788797000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC_oISdmZADFQAAAAAdAAAAABAK" alt="Whatsapp"/></a>
 </p>
 
 <hr/>
