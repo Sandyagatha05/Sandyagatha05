@@ -98,6 +98,8 @@ Take a look around, feedback and discussions are always welcome.
 	<a href="https://github.com/Sandyagatha05"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sandy-agatha-indra-lim/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://wa.me/6287889367899"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+	<a href="https://yourcv.link/here.pdf](https://sandyportfoliohtml-ochre.vercel.app/CV%20Sandy%20Agatha%20Indra%20Lim%20[2025].pdf"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV Icon"/></a>
+	<a href="https://yourportfolio.link](https://sandyportfoliohtml-ochre.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Portfolio Icon"/></a>
 </p>
 
 <hr/>
