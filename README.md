@@ -5,8 +5,7 @@
 <hr/>
 <h4 align="center">👋 Welcome!
 
-I’m passionate about understanding how data and technology can shape better decisions, smarter systems, and more meaningful digital experiences.  
-My work combines analytical thinking, data-driven insight, and collaborative problem-solving to turn ideas into outcomes that truly matter.  
+I’m passionate about understanding how data and technology can shape better decisions, smarter systems, and more meaningful digital experiences. My work combines analytical thinking, data-driven insight, and collaborative problem-solving to turn ideas into outcomes that truly matter.  
 
 Here, you’ll find projects where I explore how 'data science meets product thinking, from building predictive models and dashboards to experimenting with AI-driven solutions that connect technical precision with user value.  
 
