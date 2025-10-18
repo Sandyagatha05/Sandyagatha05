@@ -3,9 +3,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DA%20|%20ML%20|%20AI%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Undergraduate Computer Science student at BINUS University (Master Track) who loves exploring how data and technology can be turned into meaningful digital experiences. My journey in Data Analytics, Machine Learning, and Artificial Intelligence started from curiosity — how information can tell stories, guide decisions, and create impact.  
-Over time, I’ve worked on projects involving data processing, predictive modeling, and visualization, uncovering insights that support both business and product development. I also enjoy applying agile collaboration to organize workflows and build data-informed ideas that improve user experiences.  
-Beyond the technical side, my experience leading campus organizations has strengthened my leadership, communication, and strategic planning skills. I’m passionate about the intersection of data, technology, and human experience. Turning data into understanding and ideas into products that make a real difference. </h4>
+<h4 align="center">👋 Welcome!
+
+I’m passionate about understanding how data and technology can shape better decisions, smarter systems, and more meaningful digital experiences.  
+My work combines analytical thinking, data-driven insight, and collaborative problem-solving to turn ideas into outcomes that truly matter.  
+
+Here, you’ll find projects where I explore how 'data science meets product thinking, from building predictive models and dashboards to experimenting with AI-driven solutions that connect technical precision with user value.  
+
+Always open to learning, building, and collaborating.  
+Take a look around, feedback and discussions are always welcome.
+</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandyagatha05&label=Profile%20views&color=0e75b6&style=plastic" alt="SandyAgatha" /> </p>
 
